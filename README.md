@@ -8,7 +8,7 @@ By selecting the best models from both approaches, I have compared their perform
 Here is the evaluation table:
 ![Performance Evaluation](./docs/performace_evaluation.png)
 
-Conclusion:
+## Conclusion
 
 The best supervised model, XGBoost, achieves 99.48% accuracy while the best clustering model, K-Means, achieves 87% accuracy.
 
